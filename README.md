@@ -1,17 +1,38 @@
 # LabAssignmentsKrmuWebDev1
-#Personal Portfolio Website (Lab 1)
-This is my Web Development I - Lab Assignment 1 project.
-The goal was to build a one-page personal portfolio website, following accessibility and clean coding best practices.
+# 🌐 Personal Portfolio - Lab 1
 
-📌 Features
-Semantic HTML structure (<header>, <nav>, <main>, <section>, <footer>)
-Internal navigation with smooth section links
-"Skip to main content" accessibility link
-Hero section with introduction
-About section with profile image (with alt text for accessibility)
-Projects section listing 3 projects
-Skills section using a <table> to show technologies and proficiency
-Contact form with:
-Name, Email, and Message fields
-label, placeholder, and required attributes for accessibility and validation
-Clean, well-indented HTML ready for future CSS styling
+**Author:** Anujesh Gupta  
+**Roll No:** 2501730226  
+**Course:** B.Tech CSE (AI & ML)  
+**Section:** D  
+
+---
+
+## 📖 Project Overview
+
+This project is a **Personal Portfolio Website** created as part of **Lab 1**.  
+It serves as an introduction to web development using **HTML** and demonstrates the use of semantic tags, tables, links, and forms.
+
+The website provides information about the author, including:
+- Personal introduction  
+- Academic and technical projects  
+- Skills and proficiency levels  
+- A contact form for communication  
+
+---
+
+## 🧩 Features
+
+- **Semantic HTML structure** for better accessibility  
+- **Navigation bar** with quick links to different sections  
+- **About section** with profile image and bio  
+- **Projects section** listing completed works  
+- **Skills table** showing technical proficiency  
+- **Contact form** with input validation  
+- **Footer** containing copyright  
+
+---
+
+## 🗂️ File Structure
+
+
