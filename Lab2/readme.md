@@ -33,7 +33,3 @@ Table listing my skills:
 - Easy navigation links  
 
 ---
-
-## 📁 Folder Structure
-
-
