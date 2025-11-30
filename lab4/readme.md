@@ -14,8 +14,3 @@ It prompts the user with a series of questions using `prompt()`, checks the answ
 
 ---
 
-## 🚀 How It Works
-The quiz is stored as an array of question objects:
-
-```js
-
